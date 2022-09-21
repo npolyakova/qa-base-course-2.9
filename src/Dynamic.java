@@ -57,6 +57,6 @@ public class Dynamic {
         System.out.println(myStack.empty());
 
         myStack.remove(0.1);
-        System.out.println(myStack);
+        System.out.println(myStack + "123");
     }
 }
